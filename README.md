@@ -40,26 +40,24 @@ Este proyecto corresponde a mi tarea sumativa 2 correspondiente a la semana 3 de
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone https://github.com/paosepulvedao-glitch/Sumativa1-Llanquihue-Tour.git
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
 
-3. Verifica que los archivos `.txt` estén correctamente ubicados.
+3. Ejecuta el archivo `Main.java` desde el paquete `app`.
 
-4. Ejecuta el archivo `Main.java` desde el paquete `app`.
-
-5. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
+4. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
+**Repositorio GitHub:** \[https://github.com/paosepulvedao-glitch/Sumativa1-Llanquihue-Tour/tree/main]
 **Fecha de entrega:** \[09/11/2026]
 
 ---
 
-© Duoc UC | Escuela de Informática y Telecomunicaciones | Evaluación Final Transversal EFT
+© Duoc UC | Escuela de Informática y Telecomunicaciones | 
 
 
 
